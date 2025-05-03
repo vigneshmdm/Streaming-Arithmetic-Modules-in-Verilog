@@ -16,5 +16,5 @@ The designs are synchronous, working on the positive edge of the clock, and supp
 
 • **Array of MACs (`array.sv`)**  
   Implements an array of parallel MAC modules using parameterized generation. Each MAC instance operates independently on its own input streams.
-
-> Disclaimer: Please note that certain submodules used during development are **copyrighted by the University of Waterloo** and will **not be posted in this repository** in compliance with academic integrity and copyright policies.
+  
+_Disclaimer: Please note that certain submodules used during development are **copyrighted by the University of Waterloo** and will **not be posted in this repository** in compliance with academic integrity and copyright policies_
